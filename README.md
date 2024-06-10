@@ -8,6 +8,8 @@
 
 [Strings are rotations of other](4_Strings_are_rotations_of_other.py)
 
+[Count and Say problem](6_Count_and_Say_problem.py)
+
 [Checking valid shuffle of two Strings](5_Checking_valid_shuffle_of_two_Strings.py)
 
 [Split binary string 0s and 1s](11_Split_binary_string_0s_and_1s.py)
