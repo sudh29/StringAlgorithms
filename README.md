@@ -16,6 +16,8 @@
 
 [Print all Subsequences string](9_Print_all_Subsequences_string.py)
 
+[All permutations string](10_All_permutations_string.py)
+
 [Checking valid shuffle of two Strings](5_Checking_valid_shuffle_of_two_Strings.py)
 
 [Split binary string 0s and 1s](11_Split_binary_string_0s_and_1s.py)
