@@ -1,27 +1,29 @@
 # String
 
-[Reverse String](0_Reverse_String.py)
+[0 Reverse String](0_Reverse_String.py)
 
-[Palindrome String](1_Palindrome_String.py)
+[1 Palindrome String](1_Palindrome_String.py)
 
-[Find Duplicate characters in a string](2_Find_Duplicate_characters_in_a_string.py)
+[2 Find Duplicate characters in a string](2_Find_Duplicate_characters_in_a_string.py)
 
-[Strings are rotations of other](4_Strings_are_rotations_of_other.py)
+[4 Strings are rotations of other](4_Strings_are_rotations_of_other.py)
 
-[Count and Say problem](6_Count_and_Say_problem.py)
+[5 Checking valid shuffle of two Strings](5_Checking_valid_shuffle_of_two_Strings.py)
 
-[Longest Palindrome String](7_Longest_Palindrome_String.py)
+[6 Count and Say problem](6_Count_and_Say_problem.py)
 
-[Find Longest Recurring Subsequence String](8_Find_Longest_Recurring_Subsequence_String.py)
+[7 Longest Palindrome String](7_Longest_Palindrome_String.py)
 
-[Print all Subsequences string](9_Print_all_Subsequences_string.py)
+[8 Find Longest Recurring Subsequence String](8_Find_Longest_Recurring_Subsequence_String.py)
 
-[All permutations string](10_All_permutations_string.py)
+[9 Print all Subsequences string](9_Print_all_Subsequences_string.py)
 
-[Checking valid shuffle of two Strings](5_Checking_valid_shuffle_of_two_Strings.py)
+[10 All permutations string](10_All_permutations_string.py)
 
-[Split binary string 0s and 1s](11_Split_binary_string_0s_and_1s.py)
+[11 Split binary string 0s and 1s](11_Split_binary_string_0s_and_1s.py)
 
-[Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
+[14 Next Permutation](14_Next_Permutation.py)
+
+[28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
 
 
