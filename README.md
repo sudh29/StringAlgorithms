@@ -28,6 +28,8 @@
 
 [16 Word break Problem Very Imp](16_Word_break_Problem_Very_Imp.py)
 
+[17 Rabin Karp Algo](17_Rabin_Karp_Algo.py)
+
 [28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
 
 
