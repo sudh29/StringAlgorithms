@@ -38,5 +38,7 @@
 
 [35 Given sequence words print all anagrams together](35_Given_sequence_words_print_all_anagrams_together.py)
 
+[41 Isomorphic Strings](41_Isomorphic_Strings.py)
+
 [42 Recursively print all sentences formed from list word lists](42_Recursively_print_all_sentences_formed_from_list_word_lists.py)
 
