@@ -34,5 +34,7 @@
 
 [33 Rearrange characters string no two adjacent are same](33_Rearrange_characters_string_no_two_adjacent_are_same.py)
 
+[34 Minimum characters added front make string palindrome](34_Minimum_characters_added_front_make_string_palindrome.py)
+
 [35 Given sequence words print all anagrams together](35_Given_sequence_words_print_all_anagrams_together.py)
 
