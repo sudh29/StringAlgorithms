@@ -32,6 +32,8 @@
 
 [18 KMP Algo](18_KMP_Algo.py)
 
+[19 Convert sentence into its equivalent mobile numeric keypad sequence](19_Convert_sentence_into_its_equivalent_mobile_numeric_keypad_sequence.py)
+
 [24 Boyer Moore Algorithm Pattern Searching](24_Boyer_Moore_Algorithm_Pattern_Searching.py)
 
 [28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
