@@ -38,6 +38,8 @@
 
 [24 Boyer Moore Algorithm Pattern Searching](24_Boyer_Moore_Algorithm_Pattern_Searching.py)
 
+[25 Converting Roman Numerals to Decimal](25_Converting_Roman_Numerals_to_Decimal.py)
+
 [28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
 
 [33 Rearrange characters string no two adjacent are same](33_Rearrange_characters_string_no_two_adjacent_are_same.py)
