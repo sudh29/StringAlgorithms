@@ -50,6 +50,8 @@
 
 [30 Longest Common Subsequence](30_Longest_Common_Subsequence.py)
 
+[32 Smallest distinct window](32_Smallest_distinct_window.py)
+
 [33 Rearrange characters string no two adjacent are same](33_Rearrange_characters_string_no_two_adjacent_are_same.py)
 
 [34 Minimum characters added front make string palindrome](34_Minimum_characters_added_front_make_string_palindrome.py)
