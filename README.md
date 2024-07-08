@@ -46,6 +46,8 @@
 
 [28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
 
+[29 Minimum swaps bracket balancing](29_Minimum_swaps_bracket_balancing.py)
+
 [30 Longest Common Subsequence](30_Longest_Common_Subsequence.py)
 
 [33 Rearrange characters string no two adjacent are same](33_Rearrange_characters_string_no_two_adjacent_are_same.py)
