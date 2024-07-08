@@ -36,6 +36,8 @@
 
 [20 Count the Reversals](20_Count_the_Reversals.py)
 
+[23 Search Word 2D Grid characters.](23_Search_Word_2D_Grid_characters.py)
+
 [24 Boyer Moore Algorithm Pattern Searching](24_Boyer_Moore_Algorithm_Pattern_Searching.py)
 
 [25 Converting Roman Numerals to Decimal](25_Converting_Roman_Numerals_to_Decimal.py)
