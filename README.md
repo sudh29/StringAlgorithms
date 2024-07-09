@@ -42,6 +42,8 @@
 
 [25 Converting Roman Numerals to Decimal](25_Converting_Roman_Numerals_to_Decimal.py)
 
+[26 Longest Common Prefix](26_Longest_Common_Prefix.py)
+
 [27 Number flips make binary string alternate](27_Number_flips_make_binary_string_alternate.py)
 
 [28 Find the first repeated word in string](28_Find_the_first_repeated_word_in_string.py)
